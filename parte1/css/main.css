@@ -1,0 +1,35 @@
+/* Inserta tu CSS aqui *//* Pon tu código css aqui */
+ body{
+ 	margin: 0px;
+ 	padding: 0px;
+ }
+  
+  .padre {
+  	height:400px;
+  	width:400px;
+  	background-color: #ee3e64;
+  	position: static;
+  	}
+
+  .uno {
+  	height: 200px;
+  	width: 200px;
+  	background-color: blueviolet;
+    position: absolute;
+    top: 100px;
+    bottom: 100px;
+    left: 100px;
+    right: 100px;
+ 
+      
+  }
+
+  .dos {
+  	height: 100px;
+  	width: 100px;
+  	background-color: yellow;
+    position: absolute ;
+    top: 100px;
+    bottom: 100px;
+    left: 100px;
+    right: 200px;

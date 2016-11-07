@@ -1,0 +1,37 @@
+/* Inserta tu CSS aqui */
+ body{
+ 	margin: 0px;
+ 	padding: 0px;
+ }
+  
+  .padre {
+  	height:400px;
+  	width:400px;
+  	background-color: dodgerblue;
+  	position:absolute;
+  	}
+
+  .uno {
+  	height: 200px;
+  	width: 200px;
+  	background-color: forestgreen;
+    position: static;
+   margin-left: 100px;
+    margin-top: 100px;
+    
+ 
+      
+  }
+
+  .dos {
+  	height: 100px;
+  	width: 100px;
+  	background-color: black;
+    position: absolute ;
+    top: 0px;
+    bottom: 300px;
+    left: 0px;
+    right: 0px;
+      
+      
+ 
